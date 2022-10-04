@@ -1,0 +1,13 @@
+var country=["Tokoyo","New York","Dubai","Toronto","China"];
+console.log(country);
+console.log(country.sort());
+console.log(country.reverse());
+console.log(country);
+country.reverse();
+console.log(country);
+country.reverse();
+console.log(country);
+country.sort();
+console.log(country);
+country.sort();
+console.log(country);
